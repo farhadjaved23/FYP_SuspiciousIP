@@ -1,0 +1,5 @@
+Threshold IPs:
+IP: 192.168.0.68, Requests: 109, Expected: 48.197611084567605, Residual: 60.802388915432395, Threshold: 80.51961299677404, Regression Anomaly: True
+IP: 192.168.1.6, Requests: 141, Expected: 49.01340977862717, Residual: 91.98659022137284, Threshold: 81.33541169083361, Regression Anomaly: True
+IP: 192.168.1.153, Requests: 211, Expected: 49.82920847268674, Residual: 161.17079152731327, Threshold: 82.15121038489318, Regression Anomaly: True
+IP: 192.168.1.100, Requests: 619, Expected: 50.6450071667463, Residual: 568.3549928332537, Threshold: 82.96700907895274, Regression Anomaly: True
